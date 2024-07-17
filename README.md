@@ -36,7 +36,7 @@ By default:
     ![Web client UI](doc/images/ui-config.png)
 
 ## Build
-This project is currently developed using ESP-IDF 4.1 (commit `5ef1b390026270503634ac3ec9f1ec2e364e23b2`). It may be broken on newer version.
+This project is currently developed using ESP-IDF `5.1.2` (commit `a8db2270143dfbb7fb84169a5caca757b03f60eb`). It may be broken on newer version.
 
 Project can be built in the usual ESP-IDF way:
 
